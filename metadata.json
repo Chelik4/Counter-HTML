@@ -1,0 +1,6 @@
+{
+  "name": "Counter HTML",
+  "description": "3D тактический шутер Counter HTML с режимом Напарники 2х2 (WebRTC P2P), ботами, магазином и реплеями.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
